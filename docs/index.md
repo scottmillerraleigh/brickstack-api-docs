@@ -30,7 +30,7 @@ An image will be inserted here.
 
 Welcome to BrickStack! BrickStack is an API that stores information about LEGO sets.
 
-BrickStack will let you browse LEGO sets in a database to view more details about a specific LEGO set.
+Use BrickStack to browse LEGO sets in a database to view more details about a specific LEGO set.
 
 You can browse by many attributes to help you find the right set for you.
 
@@ -59,12 +59,12 @@ easy and fun BrickStack is to use!
 
 Learn how to do common tasks with BrickStack
 
-First, do this tutorial to set up your development system for these tutorials.
-You only have to do this one time per development system.
+First, read this tutorial to set up your development system for these tutorials.
+You only have to do this process one time per development system.
 
 * [setup](setup.md)
 
-After your system is ready, these tutorials show you how to perform common tasks in BrickStack.
+After your system is ready, read these tutorials to learn how to perform common tasks in BrickStack.
 
 * [Browse all sets](tutorials/enroll-a-new-user.md)
 * [Update an existing set](tutorials/add-a-new-task.md)
