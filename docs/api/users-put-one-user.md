@@ -3,7 +3,6 @@
 # vale  off
 layout: default
 parent: users resource
-nav_order: 1
 # tags used by AI files
 description: PUT existing `user` to the users resource
 tags:

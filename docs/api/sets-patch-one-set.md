@@ -3,7 +3,6 @@
 # vale  off
 layout: default
 parent: sets resource
-nav_order: 1
 # tags used by AI files
 description: PATCH existing `set` to the sets resource
 tags:
