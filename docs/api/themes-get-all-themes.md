@@ -3,7 +3,6 @@
 # vale  off
 layout: default
 parent: themes resource
-nav_order: 1
 # tags used by AI files
 description: GET all `themes` from the themes resource
 tags:

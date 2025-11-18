@@ -3,7 +3,6 @@
 # vale  off
 layout: default
 parent: sets resource
-nav_order: 1
 # tags used by AI files
 description: DELETE one `set` from the sets resource
 tags:

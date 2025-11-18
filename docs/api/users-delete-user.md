@@ -3,7 +3,6 @@
 # vale  off
 layout: default
 parent: users resource
-nav_order: 1
 # tags used by AI files
 description: DELETE one `user` from the users resource
 tags:
