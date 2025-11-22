@@ -57,6 +57,5 @@ Sample `themes` resource
 
 ## READ
 
-- [`themes` resource](#themes-resource)
-  - [Resource properties](#resource-properties)
-  - [READ](#read)
+* [Browse all themes](../tutorial/themes-get-all-themes-tutorial.md)
+* [Search a specific theme](../tutorial/themes-get-one-theme-tutorial.md)

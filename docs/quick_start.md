@@ -302,6 +302,6 @@ You have also learned how to GET a specific set using both cURL and Postman.
 
 If you want more information about the BrickStack API, visit these related topics.
 
-* [To-Do Service API Overview](./index.md)
-* [Post a new set](./tutorials/sets-post-new-set-tutorial.md)
-* [Delete a set](./tutorials/sets-delete-set-tutorial.md)
+* [BrickStack Overview](./index.md)
+* [Post a new set](./tutorial/sets-post-new-set-tutorial.md)
+* [Delete a set](./tutorial/sets-delete-set-tutorial.md)

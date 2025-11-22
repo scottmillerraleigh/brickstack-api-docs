@@ -65,9 +65,5 @@ Sample `users` resource
 
 ## READ
 
-* [Browse all sets _(coming soon)_](#resource-properties)
-* [Search for sets by piece count, release year, or price range _(coming soon)_](#resource-properties)
-* [Filter sets by piece count, release year, or price range _(coming soon)_](#resource-properties)
-* [Add new sets _(coming soon)_](#resource-properties)
-* [Update existing sets _(coming soon)_](#resource-properties)
-* [Mark sets are retired / discontinued_](#resource-properties)
+* [Get all users](../tutorial/users-get-all-users-tutorial.md)
+* [Get a specific user](../tutorial/users-get-one-user-tutorial.md)

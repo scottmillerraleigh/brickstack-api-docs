@@ -22,7 +22,7 @@ last_updated: "2025-08-11"
 # markdownlint-enable
 ---
 
-# Before you start a tutorial
+# BrickStack Setup
 
 ![BrickStack Setup](./images/setup.png "BrickStack Setup")
 
@@ -128,4 +128,4 @@ Some common situations that cause errors include:
 4. A required software component isn't up to date.
 
 If you see the list of sets from the service, you're ready to do
-the [Tutorials](./tutorials/).
+the [Tutorials](./tutorial/index.md/).
