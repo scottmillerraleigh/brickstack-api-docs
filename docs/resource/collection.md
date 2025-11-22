@@ -66,7 +66,5 @@ Sample `collection` resource
 
 ## READ
 
-* [Get all collections _(coming soon)_](#resource-properties)
-* [Get collection by collection ID _(coming soon)_](#resource-properties)
-* [Get collection by user ID _(coming soon)_](#resource-properties)
-* [Track personal sets _(coming soon)_](#resource-properties)
+* [Get all collections](../tutorial/collection-get-all-collections-tutorial.md)
+* [Get collection by collection ID](../tutorial/collection-get-one-collection-tutorial.md)

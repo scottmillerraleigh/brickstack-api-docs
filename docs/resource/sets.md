@@ -73,9 +73,5 @@ Sample `sets` resource
 
 ## READ
 
-* [Browse all sets _(coming soon)_](#resource-properties)
-* [Search for sets by piece count, release year, or price range _(coming soon)_](#resource-properties)
-* [Filter sets by piece count, release year, or price range _(coming soon)_](#resource-properties)
-* [Add new sets _(coming soon)_](#resource-properties)
-* [Update existing sets _(coming soon)_](#resource-properties)
-* [Mark sets are retired / discontinued_](#resource-properties)
+* [Browse all sets](../tutorial/sets-get-all-sets-tutorial.md)
+* [Search a specific set](../tutorial/sets-get-one-set-tutorial.md)
