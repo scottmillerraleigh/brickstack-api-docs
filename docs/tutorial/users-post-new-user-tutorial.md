@@ -2,18 +2,18 @@
 # markdownlint-disable
 # vale  off
 layout: default
-parent: tutorial
+parent: tutorials
 # tags used by AI files
 description: Post a `user` to the users resource
 tags:
     - api
 categories: 
-    - tutorial
+    - tutorials
 ai_relevance: high
 importance: 6
 prerequisites: 
     - /setup
-    - /api/users
+    - /resource/users
 related_pages: []
 examples: []
 api_endpoints: 
@@ -182,5 +182,5 @@ you can explore more of the API:
 
 - Try posting multiple users
 - View other tutorials
-- View the [users API reference document](../api/users.md)
+- View the [users API resource document](../resource/users.md)
   

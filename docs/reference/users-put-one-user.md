@@ -12,7 +12,7 @@ categories:
 ai_relevance: high
 importance: 7
 prerequisites:
-    - /api/users
+    - /resource/users
 related_pages: []
 examples: []
 api_endpoints: 
@@ -27,7 +27,7 @@ last_updated: "2025-12-11"
 
 ![BrickStack Reference](../images/reference.png "BrickStack Reference")
 
-Updates an existing user in the [`users`](users.md) resource.
+Updates an existing user in the [`users`](../resource/users.md) resource.
 
 ## URL
 

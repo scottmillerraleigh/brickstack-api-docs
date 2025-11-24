@@ -12,7 +12,7 @@ categories:
 ai_relevance: high
 importance: 7
 prerequisites:
-    - /api/collection
+    - /resource/collection
 related_pages: []
 examples: []
 api_endpoints: 
@@ -27,7 +27,7 @@ last_updated: "2025-12-11"
 
 ![BrickStack Reference](../images/reference.png "BrickStack Reference")
 
-Deletes one collection from the [`collection`](./collection.md) resource.
+Deletes one collection from the [`collection`](../resource/collection.md) resource.
 
 ## URL
 

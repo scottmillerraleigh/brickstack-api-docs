@@ -2,18 +2,18 @@
 # markdownlint-disable
 # vale  off
 layout: default
-parent: tutorial
+parent: tutorials
 # tags used by AI files
 description: Post a `set` to the sets resource
 tags:
     - api
 categories: 
-    - tutorial
+    - tutorials
 ai_relevance: high
 importance: 6
 prerequisites: 
     - /setup
-    - /api/sets
+    - /resource/sets
 related_pages: []
 examples: []
 api_endpoints: 
@@ -220,5 +220,5 @@ you can explore more of the API:
 
 - Try posting multiple sets
 - View other tutorials
-- View the [sets API reference document](../api/sets.md)
+- View the [sets API resource document](../resource/sets.md)
   

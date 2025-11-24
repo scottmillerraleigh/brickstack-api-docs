@@ -12,7 +12,7 @@ categories:
 ai_relevance: high
 importance: 7
 prerequisites:
-    - /api/collection
+    - /resource/collection
 related_pages: []
 examples: []
 api_endpoints: 
@@ -27,7 +27,7 @@ last_updated: "2025-12-11"
 
 ![BrickStack Reference](../images/reference.png "BrickStack Reference")
 
-Partially updates an existing collection in the [`collection`](./collection.md) resource.
+Partially updates an existing collection in the [`collection`](../resource/collection.md) resource.
 
 As opposed to the `PUT` request or `POST` request,
 a `PATCH` request only updates the entered attributes.

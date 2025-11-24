@@ -12,7 +12,7 @@ categories:
 ai_relevance: high
 importance: 7
 prerequisites:
-    - /api/sets
+    - /resource/sets
 related_pages: []
 examples: []
 api_endpoints: 
@@ -27,7 +27,7 @@ last_updated: "2025-12-11"
 
 ![BrickStack Reference](../images/reference.png "BrickStack Reference")
 
-Returns one result for the [`sets`](./sets.md) resource.
+Returns one result for the [`sets`](../resource/sets.md) resource.
 The results will contain one LEGO set that is stored in the API.
 
 ## URL

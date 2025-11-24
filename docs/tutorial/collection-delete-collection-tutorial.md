@@ -2,18 +2,18 @@
 # markdownlint-disable
 # vale  off
 layout: default
-parent: tutorial
+parent: tutorials
 # tags used by AI files
 description: Delete an existing `collection` resource
 tags:
     - api
 categories: 
-    - tutorial
+    - tutorials
 ai_relevance: high
 importance: 6
 prerequisites: 
     - /setup
-    - /api/collection
+    - /resource/collection
 related_pages: []
 examples: []
 api_endpoints: 
@@ -125,5 +125,5 @@ you can explore more of the API:
 
 - Try posting a new collection
 - View other tutorials
-- View the [collection API reference document](../api/collection.md)
+- View the [collection API resource document](../resource/collection.md)
   
