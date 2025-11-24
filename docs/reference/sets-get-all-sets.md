@@ -2,7 +2,7 @@
 # markdownlint-disable
 # vale  off
 layout: default
-parent: reference
+parent: Reference docs
 # tags used by AI files
 description: GET all `sets` from the sets resource
 tags:
@@ -25,7 +25,7 @@ last_updated: "2025-12-11"
 
 # Get all sets
 
-![BrickStack Reference](../images/reference.png "BrickStack Reference")
+![BrickStack Reference](./reference.png "BrickStack Reference")
 
 Returns results for the [`sets`](../resource/sets.md) resource.
 The results will contain all LEGO sets that are stored in the API.

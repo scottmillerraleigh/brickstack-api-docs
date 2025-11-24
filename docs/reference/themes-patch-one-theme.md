@@ -2,7 +2,7 @@
 # markdownlint-disable
 # vale  off
 layout: default
-parent: reference
+parent: Reference docs
 # tags used by AI files
 description: PATCH existing `theme` to the themes resource
 tags:
@@ -25,7 +25,7 @@ last_updated: "2025-12-11"
 
 # Patch existing theme
 
-![BrickStack Reference](../images/reference.png "BrickStack Reference")
+![BrickStack Reference](./reference.png "BrickStack Reference")
 
 Partially updates an existing theme in the [`themes`](../resource/themes.md) resource.
 

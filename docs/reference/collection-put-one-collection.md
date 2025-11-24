@@ -2,7 +2,7 @@
 # markdownlint-disable
 # vale  off
 layout: default
-parent: reference
+parent: Reference docs
 # tags used by AI files
 description: PUT existing `collection` to the collection resource
 tags:
@@ -25,7 +25,7 @@ last_updated: "2025-12-11"
 
 # Put existing collection
 
-![BrickStack Reference](../images/reference.png "BrickStack Reference")
+![BrickStack Reference](./reference.png "BrickStack Reference")
 
 Updates an existing collection in the [`collection`](../resource/collection.md) resource.
 

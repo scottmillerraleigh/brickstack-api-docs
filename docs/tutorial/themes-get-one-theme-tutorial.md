@@ -2,7 +2,7 @@
 # markdownlint-disable
 # vale  off
 layout: default
-parent: tutorials
+parent: Tutorials
 # tags used by AI files
 description: Get one `theme` from the themes resource
 tags:
@@ -26,7 +26,7 @@ last_updated: "2025-11-11"
 
 # Tutorial: Get one theme
 
-![BrickStack Tutorial](../images/tutorial.png "BrickStack Tutorial")
+![BrickStack Tutorial](./tutorial.png "BrickStack Tutorial")
 
 Use this tutorial to use the `GET /themes` endpoint to get an
 existing theme from the BrickStack API.

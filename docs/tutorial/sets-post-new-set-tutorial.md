@@ -2,7 +2,7 @@
 # markdownlint-disable
 # vale  off
 layout: default
-parent: tutorials
+parent: Tutorials
 # tags used by AI files
 description: Post a `set` to the sets resource
 tags:
@@ -26,7 +26,7 @@ last_updated: "2025-11-11"
 
 # Tutorial: Post a new set
 
-![BrickStack Tutorial](../images/tutorial.png "BrickStack Tutorial")
+![BrickStack Tutorial](./tutorial.png "BrickStack Tutorial")
 
 Use this tutorial to use the `POST /sets` endpoint to post a new
 LEGO set to the BrickStack API.

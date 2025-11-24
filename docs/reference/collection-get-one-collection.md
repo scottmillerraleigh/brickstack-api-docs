@@ -2,7 +2,7 @@
 # markdownlint-disable
 # vale  off
 layout: default
-parent: reference
+parent: Reference docs
 # tags used by AI files
 description: GET one `collection` from the collection resource
 tags:
@@ -25,7 +25,7 @@ last_updated: "2025-12-11"
 
 # Get one collection
 
-![BrickStack Reference](../images/reference.png "BrickStack Reference")
+![BrickStack Reference](./reference.png "BrickStack Reference")
 
 Returns one result for the [`collection`](../resource/collection.md) resource.
 The results will contain one collection that is stored in the API.

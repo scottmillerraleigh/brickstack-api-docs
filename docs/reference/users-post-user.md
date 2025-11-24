@@ -2,7 +2,7 @@
 # markdownlint-disable
 # vale  off
 layout: default
-parent: reference
+parent: Reference docs
 # tags used by AI files
 description: POST new `user` to the users resource
 tags:
@@ -25,7 +25,7 @@ last_updated: "2025-12-11"
 
 # Post new user
 
-![BrickStack Reference](../images/reference.png "BrickStack Reference")
+![BrickStack Reference](./reference.png "BrickStack Reference")
 
 Posts a new user to the [`users`](../resource/users.md) resource.
 

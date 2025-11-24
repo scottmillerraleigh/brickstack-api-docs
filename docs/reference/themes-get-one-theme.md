@@ -2,7 +2,7 @@
 # markdownlint-disable
 # vale  off
 layout: default
-parent: reference
+parent: Reference docs
 # tags used by AI files
 description: GET one `theme` from the themes resource
 tags:
@@ -25,7 +25,7 @@ last_updated: "2025-12-11"
 
 # Get one theme
 
-![BrickStack Reference](../images/reference.png "BrickStack Reference")
+![BrickStack Reference](./reference.png "BrickStack Reference")
 
 Returns one result for the [`theme`](../resource/themes.md) resource.
 The results will contain one theme that is stored in the API.

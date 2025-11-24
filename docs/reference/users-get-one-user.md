@@ -2,7 +2,7 @@
 # markdownlint-disable
 # vale  off
 layout: default
-parent: reference
+parent: Reference docs
 # tags used by AI files
 description: GET one `user` from the users resource
 tags:
@@ -25,7 +25,7 @@ last_updated: "2025-12-11"
 
 # Get one user
 
-![BrickStack Reference](../images/reference.png "BrickStack Reference")
+![BrickStack Reference](./reference.png "BrickStack Reference")
 
 Returns one result for the [`users`](../resource/users.md) resource.
 The results will contain one user that is stored in the API.
