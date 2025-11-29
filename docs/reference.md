@@ -4,6 +4,7 @@
 layout: default
 nav_order: 5
 has_children: true
+has_toc: false
 # tags used by AI files
 description: Reference landing page
 tags: 
@@ -34,7 +35,7 @@ the resources at a glance.
 
 In comparison to tutorials, the reference documents are less detailed.
 
-If you want more details, see the [tutorials page](../tutorial/index.md).
+If you want more details, see the [tutorials page](./tutorials.md).
 
 ## Reference docs for the `collection` resource
 
